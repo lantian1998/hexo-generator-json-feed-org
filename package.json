@@ -1,5 +1,5 @@
 {
-  "name": "hexo-generator-json-feed-org",
+  "name": "@lantian1998/hexo-generator-json-feed-org",
   "version": "1.0.6",
   "description": "Hexo plugin to generate a JSON feed as per the jsonfeed.org specification",
   "main": "index.js",
